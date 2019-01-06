@@ -1,0 +1,1 @@
+web: gunicorn bellybutton-biodiversity-dash.app:app
